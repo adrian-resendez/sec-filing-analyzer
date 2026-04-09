@@ -1,0 +1,51 @@
+ticker,name,sector,industry
+AAPL,Apple Inc.,Technology,Consumer Electronics
+MSFT,Microsoft Corporation,Technology,Software - Infrastructure
+AMZN,Amazon.com Inc.,Consumer Cyclical,Internet Retail
+GOOGL,Alphabet Inc.,Communication Services,Internet Content & Information
+META,Meta Platforms Inc.,Communication Services,Internet Content & Information
+NVDA,NVIDIA Corporation,Technology,Semiconductors
+JPM,JPMorgan Chase & Co.,Financial Services,Banks - Diversified
+JNJ,Johnson & Johnson,Healthcare,Drug Manufacturers - General
+XOM,Exxon Mobil Corporation,Energy,Oil & Gas Integrated
+PG,Procter & Gamble Company,Consumer Defensive,Household & Personal Products
+AVGO,Broadcom Inc.,,
+TSLA,Tesla Inc.,,
+V,Visa Inc.,,
+LLY,Eli Lilly and Company,,
+NFLX,Netflix Inc.,,
+MA,Mastercard Incorporated,,
+WMT,Walmart Inc.,,
+HD,Home Depot Inc.,,
+ABBV,AbbVie Inc.,,
+BAC,Bank of America Corporation,,
+UNH,UnitedHealth Group Incorporated,,
+KO,Coca-Cola Company,,
+PM,Philip Morris International Inc.,,
+CRM,Salesforce Inc.,,
+ORCL,Oracle Corporation,,
+CSCO,Cisco Systems Inc.,,
+GE,GE Aerospace,,
+PLTR,Palantir Technologies Inc.,,
+IBM,International Business Machines Corporation,,
+WFC,Wells Fargo & Company,,
+ABT,Abbott Laboratories,,
+MCD,McDonald's Corporation,,
+CVX,Chevron Corporation,,
+LIN,Linde plc,,
+NOW,ServiceNow Inc.,,
+DIS,Walt Disney Company,,
+ACN,Accenture plc,,
+T,AT&T Inc.,,
+ISRG,Intuitive Surgical Inc.,,
+MRK,Merck & Co. Inc.,,
+UBER,Uber Technologies Inc.,,
+GS,Goldman Sachs Group Inc.,,
+INTU,Intuit Inc.,,
+VZ,Verizon Communications Inc.,,
+AMD,Advanced Micro Devices Inc.,,
+ADBE,Adobe Inc.,,
+RTX,RTX Corporation,,
+PEP,PepsiCo Inc.,,
+BKNG,Booking Holdings Inc.,,
+TXN,Texas Instruments Incorporated,,
